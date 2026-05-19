@@ -1,5 +1,3 @@
-# Iva -
-I love and adore amamatsu...
 <p div align="center">
 <img width="540" height="30" alt="image" src="https://github.com/user-attachments/assets/dc10b56d-6312-4b56-b622-6ca8cbaba62b" />
 <img width="640" height="284" alt="image" src="https://github.com/user-attachments/assets/264502a2-9204-4787-b82a-558242f3d0e5" />
@@ -27,7 +25,9 @@ Chiaki + Kaede Kin.
 <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/af625884-3afa-4a52-be43-e7c115d186e8" />
 <br>
 <br>
-[(https://kaedeirll.straw.page)]
+[INSERT LINK HERE]
+<br>
+<br>
 <br>
 <img width="540" height="30" alt="image" src="https://github.com/user-attachments/assets/76e4831f-eeec-49e2-88ff-bf5785094692" />
 <img width="603" height="539" alt="image" src="https://github.com/user-attachments/assets/f1bd4d20-99a9-4ef5-abc0-6e648b88736a" />
