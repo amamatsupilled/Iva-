@@ -25,4 +25,3 @@ LINKS;
 [(https://kaedeirll.straw.page)]
 <br>
 <br>
-![?username=(amamatsupilled)&color=(FFB3DE)&label=(PUBLIC+AMAMATSU FANS)]
