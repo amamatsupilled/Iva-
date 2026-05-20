@@ -25,4 +25,4 @@ LINKS;
 [(https://kaedeirll.straw.page)]
 <br>
 <br>
-![](https://komarev.com/ghpvc/?username=amamatsupilled&color=FFB6C1&label=AMAMATSU+FANS!!
+![](https://komarev.com/ghpvc/?username=amamatsupilled&color=FFB6C1&label=AMAMATSU+FANS!!)
